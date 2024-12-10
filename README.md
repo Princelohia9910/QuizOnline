@@ -24,9 +24,9 @@ Introducing the **Quiz App**! This platform enables users to assess their knowle
 Begin by cloning the repository and installing the required dependencies.
 
 ```bash
-git clone https://github.com/yourusername/quiz-app.git
-cd quiz-app
+[git clone [(https://github.com/Princelohia9910/QuizOnline.git)]](https://github.com/Princelohia9910/QuizOnline.git)]
 ```
+
 
 ## Usage
 
