@@ -64,7 +64,9 @@ The image depicts a mobile application called "Quizzy App," designed to offer qu
 
 The design is user-friendly and inviting, simplifying the process for users to choose and begin their quizzes.
 
-![Screenshot 2024-12-10 at 9 25 50 PM](https://github.com/user-attachments/assets/bd3be843-3ed1-41bd-a125-e3adc9e25fe6)
+
+
+<img width="494" alt="Screenshot 2024-12-10 at 9 25 50 PM" src="https://github.com/user-attachments/assets/2a453600-9fe4-49b3-ab91-407282109ff6">
 
 ### Quiz Interface
 
@@ -80,15 +82,16 @@ The image depicts a mobile application called QuizOnline running on an Android e
 - **Action Button**: An orange "Next" button is situated below the answer choices.
 - **Guidance Message**: At the bottom, a message prompts users to "Please select answer to continue."
 
-![Screenshot 2024-12-10 at 9 26 03 PM](https://github.com/user-attachments/assets/538a61dd-7d00-4a87-ad99-77fe3b8b52c6)
+
+<img width="496" alt="Screenshot 2024-12-10 at 9 26 03 PM" src="https://github.com/user-attachments/assets/39d8cc1d-0326-40f3-ab97-8df5defed863">
 
 ### Additional Images
 
 Here are some similar images for the app:
+<img width="488" alt="Screenshot 2024-12-10 at 9 26 25 PM" src="https://github.com/user-attachments/assets/66018778-266d-4563-a73c-2650635e67cd">
+<img width="494" alt="Screenshot 2024-12-10 at 9 26 30 PM" src="https://github.com/user-attachments/assets/ca2954e9-6497-4c4d-b464-a1f6826a5f99">
+<img width="496" alt="Screenshot 2024-12-10 at 9 26 36 PM" src="https://github.com/user-attachments/assets/823c37b4-90b4-40d6-a3f9-e83e20660c12">
 
-![Screenshot 2024-12-10 at 9 26 25 PM](https://github.com/user-attachments/assets/1a53eff0-29ab-4d10-87eb-141ce6ce6bf3)
-![Screenshot 2024-12-10 at 9 26 30 PM](https://github.com/user-attachments/assets/180973d8-f607-4747-85e7-7f590063dcb0)
-![Screenshot 2024-12-10 at 9 26 36 PM](https://github.com/user-attachments/assets/44c24988-12ff-4173-84db-23bbb444ac4e)
 
 ### Results Page
 
@@ -99,7 +102,8 @@ This is the results page of the app, which displays the number of answers you ha
 
 By clicking on the finish button, you can return to the home screen.
 
-![Screenshot 2024-12-10 at 9 26 47 PM](https://github.com/user-attachments/assets/2fce0aa8-4407-4478-9494-47afa44469d6)
+
+<img width="497" alt="Screenshot 2024-12-10 at 9 26 47 PM" src="https://github.com/user-attachments/assets/bfb37f7c-a398-4515-b5c9-2f1ee2d8be42">
 
 ---
 
