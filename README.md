@@ -87,7 +87,6 @@ The image depicts a mobile application called QuizOnline running on an Android e
 
 ### Additional Images
 
-Here are some similar images for the app:
 <img width="488" alt="Screenshot 2024-12-10 at 9 26 25 PM" src="https://github.com/user-attachments/assets/66018778-266d-4563-a73c-2650635e67cd">
 <img width="494" alt="Screenshot 2024-12-10 at 9 26 30 PM" src="https://github.com/user-attachments/assets/ca2954e9-6497-4c4d-b464-a1f6826a5f99">
 <img width="496" alt="Screenshot 2024-12-10 at 9 26 36 PM" src="https://github.com/user-attachments/assets/823c37b4-90b4-40d6-a3f9-e83e20660c12">
